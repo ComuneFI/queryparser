@@ -70,64 +70,64 @@
       <recent name="C:\data\develop\go\src\query-parser\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.go test github.com/publicocean0/queryparser/tests (4)">
-    <configuration name="go test github.com/publicocean0/queryparser/tests (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.go test github.com/ComuneFI/queryparser/tests (4)">
+    <configuration name="go test github.com/ComuneFI/queryparser/tests (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="queryparser" />
       <working_directory value="$PROJECT_DIR$/tests" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/publicocean0/queryparser/tests" />
+      <package value="github.com/ComuneFI/queryparser/tests" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go test github.com/publicocean0/queryparser/tests (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go test github.com/ComuneFI/queryparser/tests (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="queryparser" />
       <working_directory value="$PROJECT_DIR$/tests" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/publicocean0/queryparser/tests" />
+      <package value="github.com/ComuneFI/queryparser/tests" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go test github.com/publicocean0/queryparser/tests (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go test github.com/ComuneFI/queryparser/tests (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="queryparser" />
       <working_directory value="$PROJECT_DIR$/tests" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/publicocean0/queryparser/tests" />
+      <package value="github.com/ComuneFI/queryparser/tests" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go test github.com/publicocean0/queryparser/tests (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go test github.com/ComuneFI/queryparser/tests (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="queryparser" />
       <working_directory value="$PROJECT_DIR$/tests" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/publicocean0/queryparser/tests" />
+      <package value="github.com/ComuneFI/queryparser/tests" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go test github.com/publicocean0/queryparser/tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go test github.com/ComuneFI/queryparser/tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="queryparser" />
       <working_directory value="$PROJECT_DIR$/tests" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/publicocean0/queryparser/tests" />
+      <package value="github.com/ComuneFI/queryparser/tests" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.go test github.com/publicocean0/queryparser/tests (4)" />
-        <item itemvalue="Go Test.go test github.com/publicocean0/queryparser/tests (3)" />
-        <item itemvalue="Go Test.go test github.com/publicocean0/queryparser/tests (2)" />
-        <item itemvalue="Go Test.go test github.com/publicocean0/queryparser/tests (1)" />
-        <item itemvalue="Go Test.go test github.com/publicocean0/queryparser/tests" />
+        <item itemvalue="Go Test.go test github.com/ComuneFI/queryparser/tests (4)" />
+        <item itemvalue="Go Test.go test github.com/ComuneFI/queryparser/tests (3)" />
+        <item itemvalue="Go Test.go test github.com/ComuneFI/queryparser/tests (2)" />
+        <item itemvalue="Go Test.go test github.com/ComuneFI/queryparser/tests (1)" />
+        <item itemvalue="Go Test.go test github.com/ComuneFI/queryparser/tests" />
       </list>
     </recent_temporary>
   </component>

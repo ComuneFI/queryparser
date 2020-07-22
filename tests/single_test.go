@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/publicocean0/queryparser"
+	"github.com/ComuneFI/queryparser"
 )
 
 const (

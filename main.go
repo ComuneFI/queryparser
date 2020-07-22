@@ -1,8 +1,8 @@
 package queryparser
 
 import (
-	"github.com/publicocean0/queryparser/common"
-	"github.com/publicocean0/queryparser/parser"
+	"github.com/ComuneFI/queryparser/common"
+	"github.com/ComuneFI/queryparser/parser"
 )
 
 func Parse(qs string) (*common.Expression, *common.Exception) {

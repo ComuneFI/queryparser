@@ -12,7 +12,7 @@ import (
 
 	"strconv"
 	"regexp"
-	"github.com/publicocean0/queryparser/common"
+	"github.com/ComuneFI/queryparser/common"
 )
 
 

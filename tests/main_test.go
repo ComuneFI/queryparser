@@ -2,7 +2,7 @@ package tests
 
 import (
 	"fmt"
-	"github.com/publicocean0/queryparser"
+	"github.com/ComuneFI/queryparser"
 	"os"
 	"testing"
 )
