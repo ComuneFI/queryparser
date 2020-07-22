@@ -9,7 +9,7 @@ import __yyfmt__ "fmt"
 //line queryparser.y:6
 
 import (
-	"github.com/publicocean0/queryparser/common"
+	"github.com/ComuneFI/queryparser/common"
 	"regexp"
 	"strconv"
 )
