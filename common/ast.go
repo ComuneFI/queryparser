@@ -84,7 +84,7 @@ func (l *Date) Set(year uint16, month, day uint8) error {
 		return errors.New("invalid month")
 	}
 	if day > daysInMonth(month, year) {
-		return errors.New("invalid dday")
+		return errors.New("invalid day")
 	}
 	l.year = year
 	l.month = month
