@@ -49,20 +49,20 @@ type DateTime struct {
 
 func daysInMonth(m uint8, y uint16) uint8 { // m is 0 indexed: 0-11
 	switch m {
-	case 1:
+	case 2:
 		if (y%4 == 0 && y%100 == 0) || y%400 == 0 {
 			return 29
 		} else {
 			return 28
 		}
 
-	case 8:
+	case 9:
 		fallthrough
-	case 3:
+	case 4:
 		fallthrough
-	case 5:
+	case 6:
 		fallthrough
-	case 10:
+	case 11:
 		return 30
 
 	default:
