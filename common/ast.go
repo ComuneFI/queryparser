@@ -80,10 +80,10 @@ func (l *Date) Parse(s string) error {
 }
 
 func (l *Date) Set(year uint16, month, day uint8) error {
-	if month > 11 {
+	if month > 12 {
 		return errors.New("invalid month")
 	}
-	if day >= daysInMonth(month, year) {
+	if day > daysInMonth(month, year) {
 		return errors.New("invalid day")
 	}
 	l.year = year
